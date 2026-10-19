@@ -1,0 +1,16 @@
+{
+  "name": "FE Prep",
+  "short_name": "FE Prep",
+  "description": "Spaced-repetition study for the FE Electrical and Computer exam.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#e7ecee",
+  "theme_color": "#e7ecee",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/icon-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
